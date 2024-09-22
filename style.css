@@ -434,7 +434,7 @@ nav .logo img {
 /* HERO PAGE */
 .heroPage {
   height: 100vh;
-  background: url("main-assets/Hero-Image.jpg");
+  background: url("Hero-Image.jpg");
   background-size: cover;
   background-position: top;
   display: flex;
